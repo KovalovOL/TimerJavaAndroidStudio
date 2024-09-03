@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <array name="pref_timer_melody_labels">
+        <item>Stop_signal</item>
+        <item>Bip_sound</item>
+        <item>Bell_sound</item>
+        <item>Alan_siren_sound</item>
+    </array>
+    
+    <array name="pref_timer_melody_values">
+        <item>stop_signal</item>
+        <item>bip_sound</item>
+        <item>bell_sound</item>
+        <item>alan_siren_sound</item>
+    </array>
+</resources>

@@ -40,4 +40,6 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation("androidx.preference:preference:1.1.1")
+    implementation("com.android.support.test.espresso:espresso-core:3.0.2")
 }
